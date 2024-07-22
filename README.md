@@ -16,6 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=scss,materialui,styledcomponents,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=scss,materialui,bootstrap,vuetify)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=github,webpack,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,webpack,gulp,nodejs,npm)](https://skillicons.dev)
