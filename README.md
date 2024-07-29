@@ -2,7 +2,7 @@
 <h3 align="center">To learn a little more about my modest self.</h3>
 <img align="right" alt="Coding" width="430" src='./img/panda.jpg' />
 
-### Mi CV :notebook: - [Liutiy Yuriy CV](https://drive.google.com/file/d/1wW3w-3c5e6-UYfYkd2aS3XdxSij839_n/view?usp=sharing)
+### Mi CV :notebook: - [Liutiy Yuriy CV](https://drive.google.com/drive/folders/16WzrPXVDmjZIZCTV4P8IQ91leuNl84Wx?hl=ru)
 
 ### Contact with me:
 
